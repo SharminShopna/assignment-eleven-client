@@ -1,0 +1,722 @@
+[
+    {
+        "name": "am",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "French",
+        "price": "452.09",
+        "description": "French tutors help students learn the French language by teaching grammar, vocabulary, pronunciation, and conversational skills. They create personalized lessons to suit individual learning styles and needs, whether for beginners or advanced students. Tutors may also help with French culture, reading comprehension, writing, and preparation for exams like the DELF or DALF.",
+        "review": "3"
+    },
+    {
+        "name": "user_382",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Arabic",
+        "price": "261.5",
+        "description": "Arabic tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "5"
+    },
+    {
+        "name": "am",
+        "email": "user49@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Chinese",
+        "price": "96.69",
+        "description": "Chinese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "3"
+    },
+    {
+        "name": "am",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Italian",
+        "price": "304.19",
+        "description": "Italian tutors help students learn the Italian language by focusing on grammar, vocabulary, pronunciation, and conversational skills. They tailor lessons to individual needs, promoting fluency, cultural understanding, and exam preparation.",
+        "review": "2"
+    },
+    {
+        "name": "am",
+        "email": "user425@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Japanese",
+        "price": "93.28",
+        "description": "Japanese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "1"
+    },
+    {
+        "name": "am",
+        "email": "user599@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Spanish",
+        "price": "377.97",
+        "description": "Spanish tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "4"
+    },
+    {
+        "name": "user_375",
+        "email": "user914@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Spanish",
+        "price": "418.18",
+        "description": "Spanish tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "1"
+    },
+    {
+        "name": "amit",
+        "email": "user695@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "French",
+        "price": "244.17",
+        "description": "French tutors help students learn the French language by teaching grammar, vocabulary, pronunciation, and conversational skills. They create personalized lessons to suit individual learning styles and needs, whether for beginners or advanced students. Tutors may also help with French culture, reading comprehension, writing, and preparation for exams like the DELF or DALF.",
+        "review": "2"
+    },
+    {
+        "name": "user_276",
+        "email": "user230@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Portuguese",
+        "price": "114.16",
+        "description": "Portuguese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "3"
+    },
+    {
+        "name": "am",
+        "email": "user207@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Chinese",
+        "price": "81.13",
+        "description": "Chinese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "5"
+    },
+    {
+        "name": "am",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "German",
+        "price": "403.66",
+        "description": "German tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "3"
+    },
+    {
+        "name": "am",
+        "email": "user891@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "English",
+        "price": "200.93",
+        "description": "English tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "5"
+    },
+    {
+        "name": "user_924",
+        "email": "user7@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "English",
+        "price": "106.56",
+        "description": "English tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "1"
+    },
+    {
+        "name": "am",
+        "email": "user131@example.com",
+        "image": "https://i.ibb.co.com/d01F64r/IMG-4306.jpg",
+        "language": "Arabic",
+        "price": "30.38",
+        "description": "Arabic tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "1"
+    },
+    {
+        "name": "am",
+        "email": "user163@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Spanish",
+        "price": "353.25",
+        "description": "Spanish tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "3"
+    },
+    {
+        "name": "am",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Spanish",
+        "price": "19.54",
+        "description": "Spanish tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "1"
+    },
+    {
+        "name": "user_81",
+        "email": "user771@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Spanish",
+        "price": "408.69",
+        "description": "Spanish tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "1"
+    },
+    {
+        "name": "am",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Chinese",
+        "price": "385.39",
+        "description": "Chinese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "1"
+    },
+    {
+        "name": "am",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "French",
+        "price": "473.43",
+        "description": "French tutors help students learn the French language by teaching grammar, vocabulary, pronunciation, and conversational skills. They create personalized lessons to suit individual learning styles and needs, whether for beginners or advanced students. Tutors may also help with French culture, reading comprehension, writing, and preparation for exams like the DELF or DALF.",
+        "review": "5"
+    },
+    {
+        "name": "user_605",
+        "email": "user149@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "German",
+        "price": "310.81",
+        "description": "German tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "1"
+    },
+    {
+        "name": "user_858",
+        "email": "user264@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Italian",
+        "price": "53.82",
+        "description": "Italian tutors help students learn the Italian language by focusing on grammar, vocabulary, pronunciation, and conversational skills. They tailor lessons to individual needs, promoting fluency, cultural understanding, and exam preparation.",
+        "review": "2"
+    },
+    {
+        "name": "am",
+        "email": "user926@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Portuguese",
+        "price": "414.56",
+        "description": "Portuguese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "5"
+    },
+    {
+        "name": "am",
+        "email": "user965@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "English",
+        "price": "233.4",
+        "description": "English tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "4"
+    },
+    {
+        "name": "user_830",
+        "email": "user25@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "English",
+        "price": "78.87",
+        "description": "English tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "1"
+    },
+    {
+        "name": "am",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "German",
+        "price": "354.33",
+        "description": "German tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "4"
+    },
+    {
+        "name": "am",
+        "email": "user498@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "German",
+        "price": "61.27",
+        "description": "German tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "5"
+    },
+    {
+        "name": "user_597",
+        "email": "user521@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Chinese",
+        "price": "406.01",
+        "description": "Chinese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "4"
+    },
+    {
+        "name": "user_367",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Portuguese",
+        "price": "79.04",
+        "description":"Portuguese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "4"
+    },
+    {
+        "name": "am",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/5Y5gXFF/IMG-4292.jpg",
+        "language": "Chinese",
+        "price": "433.98",
+        "description": "Chinese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "1"
+    },
+    {
+        "name": "am",
+        "email": "user388@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "French",
+        "price": "247.14",
+        "description": "French tutors help students learn the French language by teaching grammar, vocabulary, pronunciation, and conversational skills. They create personalized lessons to suit individual learning styles and needs, whether for beginners or advanced students. Tutors may also help with French culture, reading comprehension, writing, and preparation for exams like the DELF or DALF.",
+        "review": "4"
+    },
+    {
+        "name": "user_937",
+        "email": "user166@example.com",
+        "image": "https://i.ibb.co.com/5Y5gXFF/IMG-4292.jpg",
+        "language": "German",
+        "price": "321.28",
+        "description": "German tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "3"
+    },
+    {
+        "name": "am",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Arabic",
+        "price": "226.99",
+        "description": "Arabic tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "4"
+    },
+    {
+        "name": "user_539",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "German",
+        "price": "279.01",
+        "description": "German tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "2"
+    },
+    {
+        "name": "user_683",
+        "email": "user871@example.com",
+        "image": "https://i.ibb.co.com/5Y5gXFF/IMG-4292.jpg",
+        "language": "Portuguese",
+        "price": "472.9",
+        "description": "Portuguese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "2"
+    },
+    {
+        "name": "user_105",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Japanese",
+        "price": "96.3",
+        "description": "Japanese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "5"
+    },
+    {
+        "name": "am",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "English",
+        "price": "182.79",
+        "description": "English tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "1"
+    },
+    {
+        "name": "am",
+        "email": "user403@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Japanese",
+        "price": "295.65",
+        "description": "Japanese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "1"
+    },
+    {
+        "name": "user_865",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "English",
+        "price": "360.76",
+        "description": "English tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "2"
+    },
+    {
+        "name": "user_106",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Spanish",
+        "price": "101.35",
+        "description": "This is a description for tutorial 7.",
+        "review": "5"
+    },
+    {
+        "name": "user_567",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/d01F64r/IMG-4306.jpg",
+        "language": "Arabic",
+        "price": "189.74",
+        "description": "This is a description for tutorial 57.",
+        "review": "4"
+    },
+    {
+        "name": "am",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "French",
+        "price": "194.93",
+        "description": "French tutors help students learn the French language by teaching grammar, vocabulary, pronunciation, and conversational skills. They create personalized lessons to suit individual learning styles and needs, whether for beginners or advanced students. Tutors may also help with French culture, reading comprehension, writing, and preparation for exams like the DELF or DALF.",
+        "review": "2"
+    },
+    {
+        "name": "user_562",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Portuguese",
+        "price": "342.76",
+        "description": "Portuguese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "4"
+    },
+    {
+        "name": "am",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Spanish",
+        "price": "240.26",
+        "description": "Spanish tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "4"
+    },
+    {
+        "name": "user_911",
+        "email": "user909@example.com",
+        "image": "https://i.ibb.co.com/5Y5gXFF/IMG-4292.jpg",
+        "language": "German",
+        "price": "31.97",
+        "description": "German tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "3"
+    },
+    {
+        "name": "am",
+        "email": "user329@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Spanish",
+        "price": "13.15",
+        "description": "Spanish tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "5"
+    },
+    {
+        "name": "am",
+        "email": "user371@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Portuguese",
+        "price": "443.04",
+        "description": "Portuguese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "1"
+    },
+    {
+        "name": "user_321",
+        "email": "user319@example.com",
+        "image": "https://i.ibb.co.com/d01F64r/IMG-4306.jpg",
+        "language": "Arabic",
+        "price": "127.22",
+        "description": "Arabic tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "5"
+    },
+    {
+        "name": "user_19",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/5Y5gXFF/IMG-4292.jpg",
+        "language": "Chinese",
+        "price": "79.58",
+        "description": "Chinese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "5"
+    },
+    {
+        "name": "am",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/5Y5gXFF/IMG-4292.jpg",
+        "language": "French",
+        "price": "23.43",
+        "description": "French tutors help students learn the French language by teaching grammar, vocabulary, pronunciation, and conversational skills. They create personalized lessons to suit individual learning styles and needs, whether for beginners or advanced students. Tutors may also help with French culture, reading comprehension, writing, and preparation for exams like the DELF or DALF.",
+        "review": "3"
+    },
+    {
+        "name": "am",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "French",
+        "price": "273.72",
+        "description": "French tutors help students learn the French language by teaching grammar, vocabulary, pronunciation, and conversational skills. They create personalized lessons to suit individual learning styles and needs, whether for beginners or advanced students. Tutors may also help with French culture, reading comprehension, writing, and preparation for exams like the DELF or DALF.",
+        "review": "4"
+    },
+    {
+        "name": "am",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "German",
+        "price": "252.31",
+        "description": "German tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "1"
+    },
+    {
+        "name": "user_604",
+        "email": "user71@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Japanese",
+        "price": "239.07",
+        "description": "Japanese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "3"
+    },
+    {
+        "name": "am",
+        "email": "user169@example.com",
+        "image": "https://i.ibb.co.com/5Y5gXFF/IMG-4292.jpg",
+        "language": "French",
+        "price": "96.3",
+        "description": "French tutors help students learn the French language by teaching grammar, vocabulary, pronunciation, and conversational skills. They create personalized lessons to suit individual learning styles and needs, whether for beginners or advanced students. Tutors may also help with French culture, reading comprehension, writing, and preparation for exams like the DELF or DALF.",
+        "review": "3"
+    },
+    {
+        "name": "am",
+        "email": "user789@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Chinese",
+        "price": "381.8",
+        "description": "Chinese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "3"
+    },
+    {
+        "name": "user_253",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Italian",
+        "price": "295.62",
+        "description": "Italian tutors help students learn the Italian language by focusing on grammar, vocabulary, pronunciation, and conversational skills. They tailor lessons to individual needs, promoting fluency, cultural understanding, and exam preparation.",
+        "review": "2"
+    },
+    {
+        "name": "am",
+        "email": "user864@example.com",
+        "image": "https://i.ibb.co.com/5Y5gXFF/IMG-4292.jpg",
+        "language": "Chinese",
+        "price": "232.02",
+        "description": "Chinese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "5"
+    },
+    {
+        "name": "user_990",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Japanese",
+        "price": "215.89",
+        "description": "Japanese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "4"
+    },
+    {
+        "name": "am",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/5Y5gXFF/IMG-4292.jpg",
+        "language": "English",
+        "price": "265.42",
+        "description": "English tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "3"
+    },
+    {
+        "name": "am",
+        "email": "user556@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "French",
+        "price": "154.98",
+        "description": "French tutors help students learn the French language by teaching grammar, vocabulary, pronunciation, and conversational skills. They create personalized lessons to suit individual learning styles and needs, whether for beginners or advanced students. Tutors may also help with French culture, reading comprehension, writing, and preparation for exams like the DELF or DALF.",
+        "review": "5"
+    },
+    {
+        "name": "user_230",
+        "email": "user208@example.com",
+        "image": "https://i.ibb.co.com/5Y5gXFF/IMG-4292.jpg",
+        "language": "Spanish",
+        "price": "146.62",
+        "description": "Spanish tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "2"
+    },
+    {
+        "name": "am",
+        "email": "user693@example.com",
+        "image": "https://i.ibb.co.com/5Y5gXFF/IMG-4292.jpg",
+        "language": "Chinese",
+        "price": "174.43",
+        "description": "Chinese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "5"
+    },
+    {
+        "name": "user_303",
+        "email": "user724@example.com",
+        "image": "https://i.ibb.co.com/d01F64r/IMG-4306.jpg",
+        "language": "Arabic",
+        "price": "328.34",
+        "description": "Arabic tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "2"
+    },
+    {
+        "name": "user_752",
+        "email": "user439@example.com",
+        "image": "https://i.ibb.co.com/5Y5gXFF/IMG-4292.jpg",
+        "language": "German",
+        "price": "101.63",
+        "description": "German tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "1"
+    },
+    {
+        "name": "am",
+        "email": "user644@example.com",
+        "image": "https://i.ibb.co.com/d01F64r/IMG-4306.jpg",
+        "language": "Arabic",
+        "price": "361.75",
+        "description": "Arabic tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "4"
+    },
+    {
+        "name": "user_10",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Japanese",
+        "price": "37.33",
+        "description": "Japanese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "1"
+    },
+    {
+        "name": "user_308",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Portuguese",
+        "price": "46.9",
+        "description": "Portuguese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "3"
+    },
+    {
+        "name": "user_231",
+        "email": "user372@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Japanese",
+        "price": "464.89",
+        "description": "Japanese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "5"
+    },
+    {
+        "name": "user_15",
+        "email": "user980@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "English",
+        "price": "287.6",
+        "description": "English tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "3"
+    },
+    {
+        "name": "user_360",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/5Y5gXFF/IMG-4292.jpg",
+        "language": "Portuguese",
+        "price": "197.14",
+        "description": "Portuguese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "5"
+    },
+    {
+        "name": "am",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Japanese",
+        "price": "320.07",
+        "description": "Japanese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "3"
+    },
+    {
+        "name": "user_529",
+        "email": "user180@example.com",
+        "image": "https://i.ibb.co.com/d01F64r/IMG-4306.jpg",
+        "language": "Arabic",
+        "price": "424.65",
+        "description": "Arabic tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "3"
+    },
+    {
+        "name": "am",
+        "email": "user575@example.com",
+        "image": "https://i.ibb.co.com/d01F64r/IMG-4306.jpg",
+        "language": "Arabic",
+        "price": "482.4",
+        "description": "Arabic tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "1"
+    },
+    {
+        "name": "am",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/5Y5gXFF/IMG-4292.jpg",
+        "language": "English",
+        "price": "341.05",
+        "description": "English tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "2"
+    },
+    {
+        "name": "user_47",
+        "email": "user399@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Japanese",
+        "price": "464.05",
+        "description": "Japanese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "4"
+    },
+    {
+        "name": "user_759",
+        "email": "user638@example.com",
+        "image": "https://i.ibb.co.com/5Y5gXFF/IMG-4292.jpg",
+        "language": "Portuguese",
+        "price": "136.79",
+        "description": "Portuguese tutors assist students in learning the Arabic language, covering grammar, vocabulary, pronunciation, and conversational skills. They offer personalized lessons to improve reading, writing, and speaking, while also exploring cultural aspects of the language.",
+        "review": "1"
+    },
+    {
+        "name": "user_1000",
+        "email": "user468@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Italian",
+        "price": "255.62",
+        "description": "Italian tutors help students learn the Italian language by focusing on grammar, vocabulary, pronunciation, and conversational skills. They tailor lessons to individual needs, promoting fluency, cultural understanding, and exam preparation.",
+        "review": "4"
+    },
+    {
+        "name": "user_546",
+        "email": "user137@example.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Italian",
+        "price": "207.59",
+        "description": "Italian tutors help students learn the Italian language by focusing on grammar, vocabulary, pronunciation, and conversational skills. They tailor lessons to individual needs, promoting fluency, cultural understanding, and exam preparation.",
+        "review": "5"
+    },
+    {
+        "name": "am",
+        "email": "am@am.com",
+        "image": "https://i.ibb.co.com/7JmR6DB/IMG-4295.jpg",
+        "language": "Italian",
+        "price": "342.96",
+        "description": "Italian tutors help students learn the Italian language by focusing on grammar, vocabulary, pronunciation, and conversational skills. They tailor lessons to individual needs, promoting fluency, cultural understanding, and exam preparation.",
+        "review": "5"
+    },
+    {
+        "name": "user_36",
+        "email": "user702@example.com",
+        "image": "https://i.ibb.co.com/5Y5gXFF/IMG-4292.jpg",
+        "language": "Italian",
+        "price": "127.76",
+        "description": "Italian tutors help students learn the Italian language by focusing on grammar, vocabulary, pronunciation, and conversational skills. They tailor lessons to individual needs, promoting fluency, cultural understanding, and exam preparation.",
+        "review": "1"
+    },
+    {
+        "name": "user_593",
+        "email": "user383@example.com",
+        "image": "https://i.ibb.co.com/5Y5gXFF/IMG-4292.jpg",
+        "language": "Italian",
+        "price": "91.47",
+        "description": "Italian tutors help students learn the Italian language by focusing on grammar, vocabulary, pronunciation, and conversational skills. They tailor lessons to individual needs, promoting fluency, cultural understanding, and exam preparation.",
+        "review": "3"
+    }
+]
