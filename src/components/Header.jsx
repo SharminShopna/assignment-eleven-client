@@ -39,6 +39,7 @@ const Header = () => {
 
   return (
     <>
+    <div className="w-full justify-center flex">
       <div className="pt-5 fixed w-[95%] top-0 z-50 backdrop-filter backdrop-blur-lg bg-opacity-30 ">
         <div className="navbar">
           <div className="navbar-start">
@@ -160,6 +161,7 @@ const Header = () => {
             </button>
           </div>
         </div>
+      </div>
       </div>
       <Tooltip id="my-tooltip" />
     </>
