@@ -27,42 +27,66 @@ const TutorsCategory = () => {
       </Helmet>
       <div className={`w-11/12 mx-auto ${isDarkMode ? 'bg-gray-900 text-white' : 'bg-white text-black'}`}>
         <Header />
-        <div className="">
+        <div>
           <h2 className="text-center text-3xl my-4 mt-28 text-orange-500 font-bold">Tutor Booking Platform</h2>
           <div className="space-y-4">
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-6">
               {tutors.map((tutor) => (
-                <div key={tutor._id} className={`p-4 ${isDarkMode ? 'bg-gray-800' : 'bg-white'} rounded-lg shadow-xl`}>
-                  <div className="card card-side shadow-xl">
-                    <figure>
+                <div
+                  key={tutor._id}
+                  className={`p-4 ${isDarkMode ? 'bg-gray-800' : 'bg-white'} rounded-lg shadow-xl`}
+                >
+                  <div className="card rounded-lg shadow-xl">
+                    <figure className="w-full">
                       <img
                         src={tutor.image}
                         alt={tutor.name}
-                        className="pl-4 rounded-md"
+                        className="w-full rounded-t-lg object-cover"
                       />
                     </figure>
-                    <div className="card-body">
-                      <h2 className="card-title text-xl">{tutor.name}</h2>
-                      <p>Language: {tutor.language}</p>
-                      <p>Price: ${tutor.price}</p>
-
-                      <div className="rating">
+                    <div className="p-4">
+                      <h2 className="text-xl font-bold">{tutor.name}</h2>
+                      <p className="text-gray-600">Language: {tutor.language}</p>
+                      <p className="text-gray-600">Price: ${tutor.price}</p>
+                      <div className="rating my-2">
                         <p>Reviews: {tutor.review}</p>
-                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
                         <input
                           type="radio"
-                          name="rating-2"
+                          name={`rating-${tutor._id}`}
+                          className="mask mask-star-2 bg-orange-400"
+                        />
+                        <input
+                          type="radio"
+                          name={`rating-${tutor._id}`}
                           className="mask mask-star-2 bg-orange-400"
                           defaultChecked
                         />
-                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
-                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
-                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
+                        <input
+                          type="radio"
+                          name={`rating-${tutor._id}`}
+                          className="mask mask-star-2 bg-orange-400"
+                        />
+                        <input
+                          type="radio"
+                          name={`rating-${tutor._id}`}
+                          className="mask mask-star-2 bg-orange-400"
+                        />
+                        <input
+                          type="radio"
+                          name={`rating-${tutor._id}`}
+                          className="mask mask-star-2 bg-orange-400"
+                        />
                       </div>
-
-                      <p>Description: {tutor.description}</p>
+                      <p className="text-gray-600 mb-4">
+                        Description: {tutor.description}
+                      </p>
                       <div className="card-actions justify-end">
-                        <Link to="/" className="btn bg-orange-400 text-white">Go Home</Link>
+                        <Link
+                          to="/"
+                          className="btn bg-orange-400 text-white px-4 py-2 rounded"
+                        >
+                          Go Home
+                        </Link>
                       </div>
                     </div>
                   </div>

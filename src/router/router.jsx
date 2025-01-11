@@ -51,7 +51,7 @@ import Success from "../pages/Success";
     },
     {
       path:'tutor/:details',
-      element:(<PrivateRouter><TutorDetails></TutorDetails></PrivateRouter>)
+      element:<TutorDetails></TutorDetails>
     },
     {
       path:'bookTutors',
