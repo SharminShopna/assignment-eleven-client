@@ -12,7 +12,7 @@ const TutorsCategory = () => {
   const [tutors, setTutors] = useState([]);
 
   useEffect(() => {
-    axios.get(`https://assignment-eleven-server-nu.vercel.app/category/${category}`)
+    axios.get(`https://assignmment.vercel.app/category/${category}`)
       .then((response) => {
         setTutors(response.data);
         console.log(response.data);

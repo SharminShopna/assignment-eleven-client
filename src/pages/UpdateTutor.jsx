@@ -21,7 +21,7 @@ const UpdateTutor = () => {
   });
 
   useEffect(() => {
-    axios.get(`https://assignment-eleven-server-nu.vercel.app/tutors/${id}`,{
+    axios.get(`https://assignmment.vercel.app/tutors/${id}`,{
       withCredentials:true,
     })
       .then(response => {
@@ -42,7 +42,7 @@ const UpdateTutor = () => {
   };
 
   const handleUpdate = () => {
-    axios.patch(`https://assignment-eleven-server-nu.vercel.app/tutors/${id}`, formData)
+    axios.patch(`https://assignmment.vercel.app/tutors/${id}`, formData)
       .then(() => {
         Swal.fire({
           icon: 'success',

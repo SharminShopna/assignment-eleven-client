@@ -28,13 +28,13 @@ const AddTutorials = () => {
         
         console.log(newTutor);
         
-        //  fetch('https://assignment-eleven-server-nu.vercel.app/tutors', {
+        //  fetch('https://assignmment.vercel.app/tutors', {
         //      method: 'POST',
         //      headers: { 'Content-Type': 'application/json' },
         //      body: JSON.stringify(newTutor)
         //  })
         //   .then(res => res.json())
-          axios.post('https://assignment-eleven-server-nu.vercel.app/tutors',newTutor,{
+          axios.post('https://assignmment.vercel.app/tutors',newTutor,{
             headers: { 'Content-Type': 'application/json' },
               withCredentials:true,
           })

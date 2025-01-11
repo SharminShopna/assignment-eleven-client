@@ -46,14 +46,14 @@ const AuthProvider = ({children}) => {
             if(currentUser?.email){
                 const user = { email: currentUser.email };
 
-                axios.post('https://assignment-eleven-server-nu.vercel.app/jwt',user, {withCredentials:true})
+                axios.post('https://assignmment.vercel.app/jwt',user, {withCredentials:true})
                 .then(res => {
                     console.log('logIn token',res.data)
                     setLoading(false)
                 })
             }
             else{
-                axios.post('https://assignment-eleven-server-nu.vercel.app/logout', {}, {
+                axios.post('https://assignmment.vercel.app/logout', {}, {
                     withCredentials: true
                 })
                 .then(res => {

@@ -18,7 +18,7 @@ const TutorDetails = () => {
   
    useEffect(() => { 
     axios
-      .get(`https://assignment-eleven-server-nu.vercel.app/tutors/${details}`, {
+      .get(`https://assignmment.vercel.app/tutors/${details}`, {
         withCredentials: true, 
       })
       .then((response) => {
@@ -58,7 +58,7 @@ const TutorDetails = () => {
         email: user.email,
       };
 
-      axios.post("https://assignment-eleven-server-nu.vercel.app/book", bookingDetails)
+      axios.post("https://assignmment.vercel.app/book", bookingDetails)
   .then(() => {
     Swal.fire({
       title: "Booking successful!",

@@ -16,7 +16,7 @@ const MyTutors = () => {
   useEffect(() => {
     if (!user?.email) return;
 
-    // axios.get(`https://assignment-eleven-server-nu.vercel.app/myEmail?email=${user.email}`, {
+    // axios.get(`https://assignmment.vercel.app/myEmail?email=${user.email}`, {
     //   withCredentials:true
     // })
     axiosSecure.get(`/myEmail?email=${user.email}`)
@@ -46,7 +46,7 @@ const MyTutors = () => {
       confirmButtonText: "Yes, delete it!",
     }).then((result) => {
       if (result.isConfirmed) {
-        fetch(`https://assignment-eleven-server-nu.vercel.app/delete/${_id}`, {
+        fetch(`https://assignmment.vercel.app/delete/${_id}`, {
           method: "DELETE",
         })
           .then((res) => res.json())

@@ -13,7 +13,7 @@ const FindTutors = () => {
   // console.log(search);
 
   useEffect(() => {
-    axios.get("https://assignment-eleven-server-nu.vercel.app/allTutors")
+    axios.get("https://assignmment.vercel.app/allTutors")
       .then((response) => {
         setTutors(response.data);
       });
@@ -21,7 +21,7 @@ const FindTutors = () => {
   }, []);
 // search related api
   useEffect(() => {
-    axios.get(`https://assignment-eleven-server-nu.vercel.app/searchTutors?searchParams=${search}`)
+    axios.get(`https://assignmment.vercel.app/searchTutors?searchParams=${search}`)
       .then((response) => {
          setTutors(response.data);
       });

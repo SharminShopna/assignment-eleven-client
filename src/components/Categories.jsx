@@ -10,7 +10,7 @@ import { HiChevronRight } from 'react-icons/hi2';
     
 
    useEffect(() => {
-     axios.get('https://assignment-eleven-server-nu.vercel.app/categories')
+     axios.get('https://assignmment.vercel.app/categories')
      .then((response) => {
         setCategories(response.data);
       // console.log(response.data)

@@ -20,7 +20,7 @@ const BookedTutors = () => {
          })
     },[axiosSecure]);
     const handleReview = (tutorId) =>{
-      fetch(`https://assignment-eleven-server-nu.vercel.app/review/${tutorId}`,{
+      fetch(`https://assignmment.vercel.app/review/${tutorId}`,{
          method: 'PATCH',
          headers: {
             'content-type': 'application/json',
