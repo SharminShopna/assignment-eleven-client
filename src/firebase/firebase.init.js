@@ -21,10 +21,3 @@ const app = initializeApp(firebaseConfig);
 
 const auth = getAuth(app)
 export default auth;
-
-// apiKey: "AIzaSyAtxsp8HotsRUxWzH-M5zb5KTcIop22HKA",
-//   authDomain: "assignment-eleven-3bd98.firebaseapp.com",
-//   projectId: "assignment-eleven-3bd98",
-//   storageBucket: "assignment-eleven-3bd98.firebasestorage.app",
-//   messagingSenderId: "670316316731",
-//   appId: "1:670316316731:web:0154910ac82cb61c8a741e"

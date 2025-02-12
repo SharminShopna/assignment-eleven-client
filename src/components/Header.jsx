@@ -1,7 +1,6 @@
 import { Link, NavLink } from "react-router-dom";
 import logo from "../assets/logo.png";
 import "../App.css";
-// import { FaRegCircleUser } from "react-icons/fa6";
 import { FaSun, FaMoon } from "react-icons/fa";
 import "react-tooltip/dist/react-tooltip.css";
 import { Tooltip } from "react-tooltip";
